@@ -2,6 +2,9 @@
   "name": "splitee-fe",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@chakra-ui/icons": "^2.0.1",
@@ -13,6 +16,7 @@
     "@testing-library/react": "^13.0.1",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.4.1",
+    "@types/node": "^16.11.26",
     "@types/node": "^16.11.26",
     "@types/react": "^18.0.3",
     "@types/react-dom": "^18.0.0",
